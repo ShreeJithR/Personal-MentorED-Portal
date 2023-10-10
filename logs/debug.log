@@ -1,0 +1,55 @@
+Tue Oct 10 17:27:14 IST 2023 INFO TestListeners-onStart-85 *********************onStart********************* mode null
+Tue Oct 10 17:27:14 IST 2023 INFO GlobalSession-get-21 On GetAppiumManger Global
+Tue Oct 10 17:27:14 IST 2023 INFO GlobalSession-setDriverManager-30 SetAppiumManager Global
+Tue Oct 10 17:27:14 IST 2023 INFO TestListeners-onStart-93 Running in local
+Tue Oct 10 17:27:14 IST 2023 INFO GlobalSession-get-21 On GetAppiumManger Global
+Tue Oct 10 17:27:14 IST 2023 INFO GlobalSession-setDriverManager-30 SetAppiumManager Global
+Tue Oct 10 17:27:14 IST 2023 INFO ExtentTestManager-InitReport-21 On InitReports
+Tue Oct 10 17:27:14 IST 2023 INFO ExtentManager-getExtent-21 On GetExtent
+Tue Oct 10 17:27:14 IST 2023 INFO TestListeners-onTestStart-34 t.LoginPageTest
+Tue Oct 10 17:27:14 IST 2023 INFO TestListeners-onTestStart-35 *********************onTestStart********************* loginMentorED
+Tue Oct 10 17:27:14 IST 2023 INFO PropUtlis-readConfig-26 Chrome
+Tue Oct 10 17:27:14 IST 2023 INFO GlobalSession-get-21 On GetAppiumManger Global
+Tue Oct 10 17:27:14 IST 2023 INFO DriverManager-createDriver-49 On Create Driver...
+Tue Oct 10 17:27:14 IST 2023 INFO DriverManager-setDriver-36 on **************** setDriver
+Tue Oct 10 17:27:14 IST 2023 INFO WebDriverManagerUtils-initialization-33 On initialization 
+Tue Oct 10 17:27:14 IST 2023 INFO PropUtlis-readConfig-26 Chrome
+Tue Oct 10 17:27:14 IST 2023 INFO PropUtlis-readConfig-26 false
+Tue Oct 10 17:27:17 IST 2023 DEBUG WebDriverManagerUtils-initialization-48 Chrome Browser launched in Head Mode
+Tue Oct 10 17:27:17 IST 2023 INFO PropUtlis-readConfig-26 https://dev.elevate-mentoring.shikshalokam.org/
+Tue Oct 10 17:27:19 IST 2023 INFO DriverManager-setDriverToThreadLocal-24 On SetDriverToThreadLocal
+Tue Oct 10 17:27:19 IST 2023 INFO DriverManager-setDriver-40 Driver is set
+Tue Oct 10 17:27:19 IST 2023 INFO DriverManager-getDriver-29 On GetAppiumDriver
+Tue Oct 10 17:27:19 IST 2023 INFO ShikshaLokamClient-<init>-29 On Constructor ShikshaLokamClient
+Tue Oct 10 17:27:19 IST 2023 INFO ShikshaLokamClient-setShikshaLokamClient-34 On SetGoodWorkerClient
+Tue Oct 10 17:27:19 IST 2023 INFO TestListeners-onTestStart-42 instance created for Web
+Tue Oct 10 17:27:20 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:21 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:21 IST 2023 INFO ShikshaLokamClient-gestures-106 On Gestures
+Tue Oct 10 17:27:21 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:21 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:21 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:21 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:21 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:21 IST 2023 INFO PropUtlis-readConfig-26 https://dev.elevate-mentoring.shikshalokam.org/
+Tue Oct 10 17:27:21 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:21 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:21 IST 2023 INFO ShikshaLokamClient-logger-75 On GetLogUtlis
+Tue Oct 10 17:27:21 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:21 IST 2023 INFO PropUtlis-readConfig-26 https://dev.elevate-mentoring.shikshalokam.org/
+Tue Oct 10 17:27:26 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:26 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:26 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:26 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:26 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:26 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:26 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:26 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:26 IST 2023 INFO ShikshaLokamClient-getAsserts-58 On GetAsserts
+Tue Oct 10 17:27:26 IST 2023 INFO ShikshaLokamClient-get-39 On ShikshaLokamClient
+Tue Oct 10 17:27:26 IST 2023 INFO TestListeners-onTestSuccess-54 @onTestSuccess
+Tue Oct 10 17:27:26 IST 2023 INFO GlobalSession-get-21 On GetAppiumManger Global
+Tue Oct 10 17:27:26 IST 2023 INFO DriverManager-quitDriver-58 On QuitDriver
+Tue Oct 10 17:27:26 IST 2023 INFO DriverManager-quitDriver-60 ***************************QUTTING**************************
+Tue Oct 10 17:27:26 IST 2023 INFO TestListeners-onTestSuccess-58 Driver closed
+Tue Oct 10 17:27:26 IST 2023 INFO TestListeners-onFinish-109 *********************onFinish*********************
